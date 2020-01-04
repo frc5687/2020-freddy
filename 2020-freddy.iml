@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module relativePaths="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output/>
+    <orderEntry type="inheritedJdk"/>
+    <content url="file://$MODULE_DIR$/">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false"/>
+      <excludeFolder url="file://$MODULE_DIR$/.gradle"/>
+      <excludeFolder url="file://$MODULE_DIR$/build"/>
+    </content>
+    <orderEntry type="sourceFolder" forTests="false"/>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Public/frc2019/maven/com/kauailabs/navx/frc/navx-java/3.1.366/navx-java-3.1.366.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Public/frc2019/maven/com/kauailabs/navx/frc/navx-java/3.1.366/navx-java-3.1.366-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpilibj/wpilibj-java/2019.4.1/181d600aa0815fca956ff6903748e99be9025949/wpilibj-java-2019.4.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpilibj/wpilibj-java/2019.4.1/ba505e826a3d95e2acc68d1c219bb55781cd2b94/wpilibj-java-2019.4.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/edu.wpi.first.ntcore/ntcore-java/2019.4.1/9dd5e2cf0d5080b10e19fb88d9372a170f7a034/ntcore-java-2019.4.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/edu.wpi.first.ntcore/ntcore-java/2019.4.1/ca376b47a204864e5bcd5b83d6219e07b42416c0/ntcore-java-2019.4.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpiutil/wpiutil-java/2019.4.1/5baa3eec5cac7654236b16afd3f0198bbe5dc946/wpiutil-java-2019.4.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpiutil/wpiutil-java/2019.4.1/9b52975ba2540ee79b4ef0d2657104867e8e61d0/wpiutil-java-2019.4.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Public/frc2019/maven/edu/wpi/first/thirdparty/frc2019/opencv/opencv-java/3.4.4-4/opencv-java-3.4.4-4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Public/frc2019/maven/edu/wpi/first/thirdparty/frc2019/opencv/opencv-java/3.4.4-4/opencv-java-3.4.4-4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/edu.wpi.first.cscore/cscore-java/2019.4.1/c7eee2f82bf88c65f62a042828bf0944a2a475bb/cscore-java-2019.4.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/edu.wpi.first.cscore/cscore-java/2019.4.1/372c1bff1cae104383c1930bcda43ab9a2b8dce9/cscore-java-2019.4.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/edu.wpi.first.cameraserver/cameraserver-java/2019.4.1/d0d4a27f87a6b87eeed4ddc21964a0bc6e9e372/cameraserver-java-2019.4.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/edu.wpi.first.cameraserver/cameraserver-java/2019.4.1/e7853496f55bdfbd5142b91f916cbed6cba7372/cameraserver-java-2019.4.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/edu.wpi.first.hal/hal-java/2019.4.1/fe4aec01e745838fa6997fba26b0917e35af9480/hal-java-2019.4.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/edu.wpi.first.hal/hal-java/2019.4.1/88dcf5f101b260d9a332f5dfe4eb373d26e70a68/hal-java-2019.4.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/jaci.pathfinder/Pathfinder-Java/2019.2.19/184a2e0b22eb05eccf41512c10b421f10f7cb43/Pathfinder-Java-2019.2.19.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/jaci.pathfinder/Pathfinder-Java/2019.2.19/1cba949fc4de1708c0432029a4396f1e6c3c4489/Pathfinder-Java-2019.2.19-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/jaci.jniloader/JNILoader/1.0.1/cda8f6f8880538cb168c9d6cf62e2d96c01ee7b5/JNILoader-1.0.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/jaci.jniloader/JNILoader/1.0.1/43472fb5bec68edf76f499d3ba49b7746465885a/JNILoader-1.0.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/jaci.pathfinder/Pathfinder-FRCSupport/2019.1.11/2fd8be344fd372c7012d0c904e00f34a3aef355e/Pathfinder-FRCSupport-2019.1.11.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/jaci.pathfinder/Pathfinder-FRCSupport/2019.1.11/adcf411c8bb5da242021dc5d2e448a0510fedfb9/Pathfinder-FRCSupport-2019.1.11-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix/api-java/5.12.1/fa670d8c5af999645a422de4b9b55b21919e0c2e/api-java-5.12.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix/api-java/5.12.1/1f513a09b7e6c46484c2251435218f894e986fea/api-java-5.12.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix/wpiapi-java/5.12.1/33be424054a0813eda4d3ff5ad41b2efe735a8aa/wpiapi-java-5.12.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix/wpiapi-java/5.12.1/968076c014676c9d8f501d4991c909a66874d5bd/wpiapi-java-5.12.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.revrobotics.frc/SparkMax-java/1.1.9/e7b118e6fd873ea74e7ccbce278e0979a323c30e/SparkMax-java-1.1.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.revrobotics.frc/SparkMax-java/1.1.9/d733d1e5c190e3c86975673a3a3c6546e346af6e/SparkMax-java-1.1.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Public/frc2019/maven/junit/junit/4.12/junit-4.12.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Public/frc2019/maven/junit/junit/4.12/junit-4.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Public/frc2019/maven/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Public/frc2019/maven/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+  <component name="ModuleRootManager"/>
+</module>
