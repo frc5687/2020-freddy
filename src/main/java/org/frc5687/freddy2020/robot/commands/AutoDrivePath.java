@@ -17,6 +17,8 @@ import org.frc5687.freddy2020.robot.utils.BasicPose;
 import org.frc5687.freddy2020.robot.utils.Limelight;
 import org.frc5687.freddy2020.robot.utils.PoseTracker;
 
+import java.io.IOException;
+
 public class AutoDrivePath extends OutliersCommand {
     private Trajectory _leftTrajectory;
     private Trajectory _rightTrajectory;
@@ -43,7 +45,7 @@ public class AutoDrivePath extends OutliersCommand {
     private boolean _backwards;
     private int _direction;
 
-    public AutoDrivePath(DriveTrain driveTrain, AHRS imu, Limelight limelight, PoseTracker poseTracker, String path, int trackingSegments, boolean backwards) {
+    public AutoDrivePath(DriveTrain driveTrain, AHRS imu, Limelight limelight, PoseTracker poseTracker, String path, int trackingSegments, boolean backwards) throws IOException {
         requires(driveTrain);
         _driveTrain = driveTrain;
         _imu = imu;

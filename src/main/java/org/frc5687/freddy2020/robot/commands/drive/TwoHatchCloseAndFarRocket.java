@@ -8,8 +8,10 @@ import org.frc5687.freddy2020.robot.commands.intake.GripClaw;
 import org.frc5687.freddy2020.robot.commands.intake.PointClaw;
 import org.frc5687.freddy2020.robot.subsystems.Shifter;
 
+import java.io.IOException;
+
 public class TwoHatchCloseAndFarRocket extends CommandGroup {
-    public TwoHatchCloseAndFarRocket (Robot robot, boolean OffHAB, boolean left) {
+    public TwoHatchCloseAndFarRocket (Robot robot, boolean OffHAB, boolean left) throws IOException {
         if (OffHAB) {
             addSequential(new AutoLaunch(robot));
         }

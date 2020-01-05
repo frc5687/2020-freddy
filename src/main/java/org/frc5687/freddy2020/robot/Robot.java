@@ -26,6 +26,7 @@ import org.frc5687.freddy2020.robot.utils.*;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
+import java.io.IOException;
 
 /**
  * The VM is configured to automatically run this class, and to call the
@@ -203,34 +204,38 @@ public class Robot extends TimedRobot implements ILoggingSource, IPoseTrackable{
 
         boolean leftSide = position == AutoChooser.Position.LeftPlatform || position == AutoChooser.Position.LeftHAB;
 
-        switch (mode) {
-            case Launch:
-                if ((position == AutoChooser.Position.LeftHAB) || (position == AutoChooser.Position.RightHAB)) {
-                    _autoCommand = new AutoLaunch(this);
-                }
-                break;
-            case NearAndTopRocket:
-                if ((position != AutoChooser.Position.CenterLeft) && (position != AutoChooser.Position.CenterRight)) {
-                    // If we are in the center we can't do rocket hatches!
-                    _autoCommand = new TwoHatchRocket(this,
-                            position == AutoChooser.Position.LeftHAB || position == AutoChooser.Position.RightHAB,
-                            position == AutoChooser.Position.LeftPlatform || position == AutoChooser.Position.LeftHAB);
-                }
-                break;
-            case NearAndFarRocket:
-                if ((position != AutoChooser.Position.CenterLeft) && (position != AutoChooser.Position.CenterRight)){
-                    _autoCommand = new TwoHatchCloseAndFarRocket(this,
-                            position == AutoChooser.Position.LeftHAB || position == AutoChooser.Position.RightHAB,
-                            leftSide
-                    );
-                }
-                break;
-            case CargoFaceAndNearRocket:
+        try {
+            switch (mode) {
+                case Launch:
+                    if ((position == AutoChooser.Position.LeftHAB) || (position == AutoChooser.Position.RightHAB)) {
+                        _autoCommand = new AutoLaunch(this);
+                    }
+                    break;
+                case NearAndTopRocket:
+                    if ((position != AutoChooser.Position.CenterLeft) && (position != AutoChooser.Position.CenterRight)) {
+                        // If we are in the center we can't do rocket hatches!
+                        _autoCommand = new TwoHatchRocket(this,
+                                position == AutoChooser.Position.LeftHAB || position == AutoChooser.Position.RightHAB,
+                                position == AutoChooser.Position.LeftPlatform || position == AutoChooser.Position.LeftHAB);
+                    }
+                    break;
+                case NearAndFarRocket:
+                    if ((position != AutoChooser.Position.CenterLeft) && (position != AutoChooser.Position.CenterRight)) {
+                        _autoCommand = new TwoHatchCloseAndFarRocket(this,
+                                position == AutoChooser.Position.LeftHAB || position == AutoChooser.Position.RightHAB,
+                                leftSide
+                        );
+                    }
+                    break;
+                case CargoFaceAndNearRocket:
 
-                _autoCommand = new TwoHatchCargoRocket(this,
-                        position == AutoChooser.Position.LeftHAB || position == AutoChooser.Position.RightHAB,
-                        position == AutoChooser.Position.CenterLeft || position == AutoChooser.Position.LeftHAB);
-                break;
+                    _autoCommand = new TwoHatchCargoRocket(this,
+                            position == AutoChooser.Position.LeftHAB || position == AutoChooser.Position.RightHAB,
+                            position == AutoChooser.Position.CenterLeft || position == AutoChooser.Position.LeftHAB);
+                    break;
+            }
+        } catch (IOException ioe) {
+
         }
         if (_autoCommand==null) {
             _autoCommand = new SandstormPickup(this);

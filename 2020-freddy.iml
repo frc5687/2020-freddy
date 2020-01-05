@@ -13,17 +13,6 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.kauailabs.navx.frc/navx-java/3.1.366/61a5d7a55c6f96fa1b15c52eaab3e1ecd27331e5/navx-java-3.1.366.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.kauailabs.navx.frc/navx-java/3.1.366/50bfa74f146e110b7edc72b5d337e81c21345f7f/navx-java-3.1.366-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
           <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpilibj/wpilibj-java/2020.1.2/46a4f95b60e3aecd744919cfc1f1181ad901d10c/wpilibj-java-2020.1.2.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -145,11 +134,22 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/jaci.pathfinder/Pathfinder-Java/2019.2.19/184a2e0b22eb05eccf41512c10b421f10f7cb43/Pathfinder-Java-2019.2.19.jar!/"/>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.kauailabs.navx.frc/navx-java/3.1.400/3e28451a07aff388f6e3e77429e2ec61502b0201/navx-java-3.1.400.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/jaci.pathfinder/Pathfinder-Java/2019.2.19/1cba949fc4de1708c0432029a4396f1e6c3c4489/Pathfinder-Java-2019.2.19-sources.jar!/"/>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.kauailabs.navx.frc/navx-java/3.1.400/b7d2131e34c349231add5d9f3d95f084dcc3a667/navx-java-3.1.400-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/jaci.pathfinder/Pathfinder-Java/2019.3.06-UNSTABLE/b932855ea9a4ff6bacdee08018108bca0a3acf1d/Pathfinder-Java-2019.3.06-UNSTABLE.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/jaci.pathfinder/Pathfinder-Java/2019.3.06-UNSTABLE/c24dd72a2a9c5a8b5f05560e136efc9316e1daac/Pathfinder-Java-2019.3.06-UNSTABLE-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -167,44 +167,55 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/jaci.pathfinder/Pathfinder-FRCSupport/2019.1.11/2fd8be344fd372c7012d0c904e00f34a3aef355e/Pathfinder-FRCSupport-2019.1.11.jar!/"/>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/jaci.pathfinder/Pathfinder-FRCSupport/2019.3.06-UNSTABLE/56f04b56fb9c36e6649342cbf2ebe497aabfe452/Pathfinder-FRCSupport-2019.3.06-UNSTABLE.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/jaci.pathfinder/Pathfinder-FRCSupport/2019.1.11/adcf411c8bb5da242021dc5d2e448a0510fedfb9/Pathfinder-FRCSupport-2019.1.11-sources.jar!/"/>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/jaci.pathfinder/Pathfinder-FRCSupport/2019.3.06-UNSTABLE/b1c142b0d0554f855eae887b1b0a25b55b90ec8/Pathfinder-FRCSupport-2019.3.06-UNSTABLE-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix/api-java/5.12.1/fa670d8c5af999645a422de4b9b55b21919e0c2e/api-java-5.12.1.jar!/"/>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix/api-java/5.17.3/53b38914d133657ea058c86a97547dfd2035401d/api-java-5.17.3.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix/api-java/5.12.1/1f513a09b7e6c46484c2251435218f894e986fea/api-java-5.12.1-sources.jar!/"/>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix/api-java/5.17.3/837f68cb326f2dcb91ce4bbf9e6f5297ff239783/api-java-5.17.3-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix/wpiapi-java/5.12.1/33be424054a0813eda4d3ff5ad41b2efe735a8aa/wpiapi-java-5.12.1.jar!/"/>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix/wpiapi-java/5.17.3/278184706572c3ad2fad702cdeebb2cce6b132c7/wpiapi-java-5.17.3.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix/wpiapi-java/5.12.1/968076c014676c9d8f501d4991c909a66874d5bd/wpiapi-java-5.12.1-sources.jar!/"/>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix/wpiapi-java/5.17.3/57bf6fda085e67c9346fa7e14644605f6e29dcaf/wpiapi-java-5.17.3-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.revrobotics.frc/SparkMax-java/1.1.9/e7b118e6fd873ea74e7ccbce278e0979a323c30e/SparkMax-java-1.1.9.jar!/"/>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.revrobotics.frc/SparkMax-java/1.5.1/e23174e5aba5326d8bc688de17673943ee49c041/SparkMax-java-1.5.1.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.revrobotics.frc/SparkMax-java/1.1.9/d733d1e5c190e3c86975673a3a3c6546e346af6e/SparkMax-java-1.1.9-sources.jar!/"/>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/com.revrobotics.frc/SparkMax-java/1.5.1/562a8580ca896bb257692e03ccdace958475ee8d/SparkMax-java-1.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpilibOldCommands/wpilibOldCommands-java/2020.1.2/5e7dcb0e2ca765dbb18c538a6ced54ed7ad89ba3/wpilibOldCommands-java-2020.1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Ben Bernard/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpilibOldCommands/wpilibOldCommands-java/2020.1.2/89b8cf8dfa1abcb41a1d956eb537b76cdf415c42/wpilibOldCommands-java-2020.1.2-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>

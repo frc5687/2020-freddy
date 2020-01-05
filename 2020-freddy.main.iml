@@ -34,5 +34,71 @@
     <orderEntry type="library" name="Gradle: edu.wpi.first.wpilibj:wpilibj-java:2020.1.2" level="project" />
     <orderEntry type="library" name="Gradle: edu.wpi.first.ntcore:ntcore-java:2020.1.2" level="project" />
     <orderEntry type="library" name="Gradle: org.ejml:ejml-dsparse:0.38" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpilibOldCommands/wpilibOldCommands-java/2020.1.2/5e7dcb0e2ca765dbb18c538a6ced54ed7ad89ba3/wpilibOldCommands-java-2020.1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpilibOldCommands/wpilibOldCommands-java/2020.1.2/89b8cf8dfa1abcb41a1d956eb537b76cdf415c42/wpilibOldCommands-java-2020.1.2-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpilibj/wpilibj-java/2020.1.2/46a4f95b60e3aecd744919cfc1f1181ad901d10c/wpilibj-java-2020.1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpilibj/wpilibj-java/2020.1.2/44eae5b070999f1fd24729fb7f36e974abc30490/wpilibj-java-2020.1.2-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpiutil/wpiutil-java/2020.1.2/720df2a20346bc99c433421c45beb41052687db0/wpiutil-java-2020.1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpiutil/wpiutil-java/2020.1.2/548dd9bd7af5c091bba62f62999b1237343cbae8/wpiutil-java-2020.1.2-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jaci.pathfinder/Pathfinder-FRCSupport/2019.3.06-UNSTABLE/56f04b56fb9c36e6649342cbf2ebe497aabfe452/Pathfinder-FRCSupport-2019.3.06-UNSTABLE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jaci.pathfinder/Pathfinder-FRCSupport/2019.3.06-UNSTABLE/b1c142b0d0554f855eae887b1b0a25b55b90ec8/Pathfinder-FRCSupport-2019.3.06-UNSTABLE-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jaci.pathfinder/Pathfinder-Java/2019.3.06-UNSTABLE/b932855ea9a4ff6bacdee08018108bca0a3acf1d/Pathfinder-Java-2019.3.06-UNSTABLE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jaci.pathfinder/Pathfinder-Java/2019.3.06-UNSTABLE/c24dd72a2a9c5a8b5f05560e136efc9316e1daac/Pathfinder-Java-2019.3.06-UNSTABLE-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kauailabs.navx.frc/navx-java/3.1.400/3e28451a07aff388f6e3e77429e2ec61502b0201/navx-java-3.1.400.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kauailabs.navx.frc/navx-java/3.1.400/b7d2131e34c349231add5d9f3d95f084dcc3a667/navx-java-3.1.400-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>

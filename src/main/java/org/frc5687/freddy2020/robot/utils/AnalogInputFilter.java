@@ -1,7 +1,7 @@
 package org.frc5687.freddy2020.robot.utils;
 
 import edu.wpi.first.wpilibj.AnalogInput;
-import edu.wpi.first.wpilibj.CircularBuffer;
+import edu.wpi.first.wpiutil.CircularBuffer;
 import edu.wpi.first.wpilibj.PIDSource;
 import edu.wpi.first.wpilibj.PIDSourceType;
 
