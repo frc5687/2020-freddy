@@ -7,6 +7,6 @@ package org.frc5687.freddy2020.robot.utils;
 
 public class Version {
     public static final String BRANCH = "master";
-    public static final String REVISION = "0201971";
-    public static final String MODIFIED = "";
+    public static final String REVISION = "af91c24";
+    public static final String MODIFIED = " *";
 }
